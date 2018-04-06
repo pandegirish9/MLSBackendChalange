@@ -11,7 +11,6 @@ Solution :
 
 How to run this code ?
 
-Answer: 
 prerequisite requirements : Java, Maven, Eclipse installation on machine.
 
 How to run this code :
